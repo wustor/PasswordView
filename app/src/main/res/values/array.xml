@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="topNames">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="bottomNames">
+        <item>验证手机</item>
+        <item>重设密码</item>
+        <item>重设成功</item>
+    </string-array>
+</resources>

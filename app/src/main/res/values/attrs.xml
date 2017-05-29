@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义属性集合:CircleView-->
+    <declare-styleable name="PasswordView">
+        <attr name="circle_color_checked" format="color"/>
+        <attr name="circle_color_unchecked" format="color"/>
+        <attr name="number_color_checked" format="color"/>
+        <attr name="number_color_unchecked" format="color"/>
+        <attr name="line_color" format="color"/>
+        <attr name="text_color" format="color"/>
+        <attr name="text_size" format="dimension"/>
+        <attr name="text_padding" format="dimension"/>
+        <attr name="circle_radius" format="dimension"/>
+        <attr name="edge_line_width" format="dimension"/>
+        <attr name="center_line_width" format="dimension"/>
+        <attr name="topName" format="reference"/>
+        <attr name="bottomName" format="reference"/>
+        <attr name="checkedNumber" format="integer"/>
+    </declare-styleable>
+</resources>
